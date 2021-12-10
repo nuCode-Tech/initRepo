@@ -1,1 +1,2 @@
 # initRepo
+# test git config
